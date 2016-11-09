@@ -1,0 +1,3 @@
+
+
+#define UL_CENTER_FREQ  867950000
